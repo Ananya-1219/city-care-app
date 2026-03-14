@@ -1,8 +1,5 @@
 # city-care-app
-Smart city care service platform for users
-<p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
-</p>
+Smart city care service platform for user
 
 ### Team Name: SmartCare
 
