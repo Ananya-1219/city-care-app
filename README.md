@@ -81,7 +81,7 @@ Open index.html in browser
 
 #### Screenshots (Add at least 3)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Ananya-1219/city-care-app/blob/main/dashboard.png)
 *Hospital dashboard showing patient queue*
 
 
